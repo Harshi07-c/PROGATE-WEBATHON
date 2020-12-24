@@ -1,0 +1,59 @@
+body
+{
+    padding-left:80px;
+    padding-right:80px;
+    font-family:'Lucida Grande';
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0-kKHP08VLrgCa2Rd9hqcckeovzjEjpZmQ&usqp=CAU");
+    text-align: center;
+}
+li
+{
+    list-style:none;
+    font-size:20px;
+}
+.header img
+{  width:300px;
+    height:400px;
+   float:left;
+   padding:20px 30px;
+   margin-left:40px;
+}
+.header p
+{
+    font-size:40px;
+    color:red;
+    padding:20px 30px;
+    text-align: right;
+}
+.main
+{   margin-top:100px ;
+    padding-top:100px;
+    padding-bottom:100px;
+    
+}
+.a
+{   
+    font-size:40px;
+    color:whitesmokes;
+    padding-bottom:15px;
+    text-align:left;
+}
+.project-title
+{ 
+    border:3px solid brown;
+    color:black;
+    background-image:url("https://www.freecodecamp.org/news/content/images/2020/04/w-qjCHPZbeXCQ-unsplash.jpg") ;
+    
+}
+.footer
+{
+    padding-top:100px;
+    padding-bottom:100px;
+
+}
+.url
+{
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
